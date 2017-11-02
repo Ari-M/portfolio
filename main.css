@@ -1,0 +1,22 @@
+.banner {
+	background-color: blue;
+}
+
+#me {
+	width: 100px;
+	height: 100px;
+	display: inline-block;
+}
+
+.me-banner{
+	display: inline;
+	width: 75%;
+}
+
+#nav {
+	padding-right: 2%;
+}
+
+#meet-ari {
+	background-color: red;
+}
